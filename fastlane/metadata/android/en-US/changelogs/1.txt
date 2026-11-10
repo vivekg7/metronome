@@ -1,0 +1,1 @@
+First release: sample-accurate metronome with accents, subdivisions, tap tempo, tempo trainer and presets, plus a chromatic tuner with instrument modes and A4 calibration.

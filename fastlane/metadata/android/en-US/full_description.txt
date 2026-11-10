@@ -1,0 +1,26 @@
+A metronome and a chromatic tuner for practising musicians. No ads, no tracking, no account, and no internet permission: it cannot send anything anywhere.
+
+<b>Metronome</b>
+<ul>
+<li>20–300 BPM with a drag dial, ±1 buttons, direct entry and tap tempo</li>
+<li>Time signatures from 2/4 to 12/8, or any custom metre up to 16 beats</li>
+<li>Per-beat accents: tap a beat to switch between accent, normal and mute</li>
+<li>Subdivisions: eighths, triplets and sixteenths</li>
+<li>Four click sounds: click, woodblock, beep and cowbell</li>
+<li>Tempo trainer: raises the tempo by a set amount every few bars, up to a target</li>
+<li>Saved presets that double as an ordered setlist</li>
+<li>Keeps playing with the screen off; stop it from the notification</li>
+</ul>
+
+<b>Accurate timing</b>
+Clicks are placed by counting audio samples in a low-latency audio stream, not by timers, so the beat does not drift or wobble. The beat indicator follows the audio actually being played.
+
+<b>Tuner</b>
+<ul>
+<li>Note name, octave, frequency and a cents needle</li>
+<li>A4 calibration from 430 to 450 Hz</li>
+<li>Instrument modes for guitar, bass, ukulele and violin that highlight the nearest string</li>
+<li>Sound from the microphone is analysed on the device and never recorded or stored</li>
+</ul>
+
+Free and open source under the MIT licence.
