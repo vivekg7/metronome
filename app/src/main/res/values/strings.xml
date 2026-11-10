@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Metronome</string>
+
+    <string name="tab_metronome">Metronome</string>
+    <string name="tab_tuner">Tuner</string>
+
+    <!-- Metronome -->
+    <string name="bpm">BPM</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="tap_tempo">Tap tempo</string>
+    <string name="bpm_minus">Slower by 1 BPM</string>
+    <string name="bpm_plus">Faster by 1 BPM</string>
+    <string name="beat_hint">Tap a beat to cycle accent, normal and mute</string>
+    <string name="beat_description">Beat %1$d, %2$s</string>
+    <string name="accent_accent">accented</string>
+    <string name="accent_normal">normal</string>
+    <string name="accent_mute">muted</string>
+    <string name="cycle_accent">Change accent</string>
+    <string name="tempo_dial_description">Tempo dial. Drag around the ring to change the tempo.</string>
+    <string name="set_tempo">Set tempo</string>
+    <string name="tempo_range">%1$d to %2$d BPM</string>
+    <string name="time_signature">Time signature</string>
+    <string name="custom">Custom</string>
+    <string name="beats_per_bar">Beats per bar</string>
+    <string name="note_value">Beat note</string>
+    <string name="subdivision_none">No subdivision</string>
+    <string name="subdivision_eighths">Eighths</string>
+    <string name="subdivision_triplets">Triplets</string>
+    <string name="subdivision_sixteenths">Sixteenths</string>
+    <string name="sound_click">Click</string>
+    <string name="sound_wood">Woodblock</string>
+    <string name="sound_beep">Beep</string>
+    <string name="sound_cowbell">Cowbell</string>
+    <string name="trainer">Tempo trainer</string>
+    <string name="trainer_summary">+%1$d BPM every %2$d bars, up to %3$d BPM</string>
+    <string name="trainer_step">Raise by (BPM)</string>
+    <string name="trainer_every">Every (bars)</string>
+    <string name="trainer_target">Up to (BPM)</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="marking_grave">Grave</string>
+    <string name="marking_largo">Largo</string>
+    <string name="marking_adagio">Adagio</string>
+    <string name="marking_andante">Andante</string>
+    <string name="marking_moderato">Moderato</string>
+    <string name="marking_allegro">Allegro</string>
+    <string name="marking_presto">Presto</string>
+    <string name="marking_prestissimo">Prestissimo</string>
+
+    <!-- Presets -->
+    <string name="presets">Presets</string>
+    <string name="save_current">Save current</string>
+    <string name="presets_empty">No presets yet. Set up a tempo, metre and accents, then save it here. The list doubles as a setlist: order it with the arrows.</string>
+    <string name="preset_name">Preset name</string>
+    <string name="preset_summary">%1$d BPM · %2$s · %3$s</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="delete">Delete</string>
+
+    <!-- Playback notification -->
+    <string name="notification_channel">Playback</string>
+    <string name="notification_text">%1$d BPM · %2$s</string>
+
+    <!-- Tuner -->
+    <string name="mic_title">Microphone access</string>
+    <string name="mic_explanation">The tuner listens to your instrument through the microphone to measure its pitch. Sound is analysed on your device as it arrives. It is never recorded, saved or sent anywhere.</string>
+    <string name="mic_allow">Allow microphone</string>
+    <string name="mic_denied">Microphone access is turned off for this app. Turn it on in the app settings to use the tuner.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="mic_unavailable">The microphone could not be opened. Another app may be using it.</string>
+    <string name="instrument_chromatic">Chromatic</string>
+    <string name="instrument_guitar">Guitar</string>
+    <string name="instrument_bass">Bass</string>
+    <string name="instrument_ukulele">Ukulele</string>
+    <string name="instrument_violin">Violin</string>
+    <string name="play_a_note">Play a note</string>
+    <string name="frequency_hz">%1$.1f Hz</string>
+    <string name="cents_value">%1$+d cents</string>
+    <string name="in_tune">In tune</string>
+    <string name="tune_up">Flat: tune up</string>
+    <string name="tune_down">Sharp: tune down</string>
+    <string name="a4_calibration">A4 = %1$d Hz</string>
+    <string name="a4_lower">Lower reference pitch</string>
+    <string name="a4_higher">Raise reference pitch</string>
+    <string name="no_note">–</string>
+</resources>

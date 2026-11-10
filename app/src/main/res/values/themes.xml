@@ -1,0 +1,4 @@
+<resources>
+    <!-- Window theme only; everything inside is drawn by Compose with Material 3. -->
+    <style name="Theme.Metronome" parent="@android:style/Theme.Material.Light.NoActionBar" />
+</resources>
